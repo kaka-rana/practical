@@ -1,6 +1,6 @@
 hello,haha a
 kksk
 ranag
-this is from masterfrom github.
+this is from github
 hello sire, how re you.
 
